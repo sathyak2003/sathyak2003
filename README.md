@@ -15,7 +15,7 @@
 - Or reach out on **LinkedIn**: [Sathyak LinkedIn](https://www.linkedin.com/in/yourprofile) (replace with actual link).
 
 ## 😄 Pronouns:
-- **idgaf** 😄 (feel free to customize this if you'd like a more formal option)
+- **idgaf** 😄 
 
 ## ⚡ Fun fact:
 - I'm a tech enthusiast and enjoy learning about emerging technologies in electronics and embedded systems.  
